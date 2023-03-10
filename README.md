@@ -1,9 +1,10 @@
 # 네트워크 스터디
 
 ## 스터디원
-<a href="https://github.com/minseojo/os-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=minseojo/network-study" />
-</a>
+<a href="https://github.com/minseojo/network-study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=minseojo/network-study"/>
+</a> 
+
 
 ## 📖 교재
 
@@ -29,3 +30,5 @@ CS 면접 대비 [네트워크]
 - 질문 중 반 이상 대답하지 못한 경우
 - 일주일전에 미리 결석, 지각을 예고하지 않은 경우
   - 미리 예고한 경우 공부한 내용 깃허브에 커밋하면 벌칙 x
+
+- 2번 이상 빠지면 아웃
